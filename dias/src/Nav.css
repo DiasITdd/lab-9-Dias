@@ -1,0 +1,89 @@
+*{
+    transition: 0.2s;
+}
+
+Nav{
+    width: 100%;
+    height: 54px;
+    border-bottom: 1px solid #dbdbdb;
+    position: fixed;
+    z-index: 5;
+    background-color: white;
+}
+.text{
+    position: absolute;
+    width: 10%;
+    height: 50%;
+    left: 800px;
+}
+.home{
+    position: absolute;
+    width: 2.5%;
+    left: 1200px;
+    }
+.home:hover{
+    position: absolute;
+    width: 3.5%;
+    left: 1200px;
+    }
+.message{
+    position: absolute;
+    width: 2.2%;
+    left: 1260px;
+}
+.message:hover{
+    position: absolute;
+    width: 3.2%;
+    left: 1260px;
+}
+.plus{
+    position: absolute;
+    width: 2.2%;
+    left: 1320px;
+}
+.plus:hover{
+    position: absolute;
+    width: 3.2%;
+    left: 1320px;
+}
+.safari{
+    position: absolute;
+    width: 2.2%;
+    left: 1380px;
+}
+.safari:hover{
+    position: absolute;
+    width: 3.2%;
+    left: 1380px;
+}
+.safari:hover{
+    position: absolute;
+    width: 3.2%;
+    left: 1380px;
+}
+.like{
+    position: absolute;
+    width: 2.2%;
+    left: 1440px;
+}
+
+.like:hover{
+    position: absolute;
+    width: 3.2%;
+    left: 1440px;
+}
+.d4{
+    position: absolute;
+    width: 2.2%;
+    left: 1500px;
+    border-radius: 50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+.App-logo {
+    position: fixed;
+    left: 250px;
+    height: 58px;
+    width: 206px;
+    pointer-events: painted;
+  }
